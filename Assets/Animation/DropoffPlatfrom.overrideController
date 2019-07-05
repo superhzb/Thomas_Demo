@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DropoffPlatfrom
+  m_Controller: {fileID: 9100000, guid: 518fc5ff9d03bc642bff8824c6bc5805, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 37912127b08779549b5494c7b2f685e4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b359e1ea00b1ef94f970f4385c0af0d5, type: 2}

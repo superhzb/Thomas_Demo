@@ -1,0 +1,31 @@
+{
+	"panelPathList": [{
+			"name": "StartLoadPanel",
+			"path": "Prefabs/UIPanel/StartLoadPanel"
+		}, {
+			"name": "GameOptionPanel",
+			"path": "Prefabs/UIPanel/GameOptionPanel"
+		}, {
+			"name": "VerificationPanel",
+			"path": "Prefabs/UIPanel/VerificationPanel"
+		}, {
+			"name": "SettingPanel",
+			"path": "Prefabs/UIPanel/SettingPanel"
+		}, {
+			"name": "TrainPanel",
+			"path": "Prefabs/UIPanel/TrainPanel"
+		},{
+			"name": "WorldMapPanel",
+			"path": "Prefabs/UIPanel/WorldMapPanel"
+		},{
+			"name": "HUD",
+			"path": "Prefabs/UIPanel/HUD"
+		},{
+			"name": "PausePanel",
+			"path": "Prefabs/UIPanel/PausePanel"
+		},{
+			"name": "LevelFinishPanel",
+			"path": "Prefabs/UIPanel/LevelFinishPanel"
+		}
+	]
+}
